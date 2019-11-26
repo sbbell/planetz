@@ -1,2 +1,3 @@
 #facts about Mars
-Mars is cool.  That is a fact.  
+Mars is cool.  That is a fact.
+However, emerging evidence suggests it may NOT be a fact.
